@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-
+//check if there are some error
 public class Board extends JPanel {
 	private static final long serialVersionUID = 6195235521361212179L;
 	
